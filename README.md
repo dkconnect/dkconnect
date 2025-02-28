@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
 - I’m currently pursuing my **Bachelor's Degree**  
