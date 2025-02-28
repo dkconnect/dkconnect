@@ -29,10 +29,6 @@
   
 </p>
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkconnect&show_icons=true&locale=en&layout=compact" alt="dkconnect" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&locale=en" alt="dkconnect" /></p>
