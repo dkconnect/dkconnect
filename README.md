@@ -2,7 +2,6 @@
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
 - I’m currently pursuing my **Bachelor's Degree**  
-- Know about me at [My Portfolio](https://dibyanshukr-portfolio.my.canva.site)  
 - I’m learning **Lua, C, and Bash scripting**  
 
 <h3 align="left">Connect with me:</h3>
