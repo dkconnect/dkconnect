@@ -1,7 +1,8 @@
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
 - I’m currently pursuing my **Bachelor's Degree**  
-- I’m learning **Lua, C, and Bash scripting**  
+- I’m learning **Lua, C, and Bash scripting**
+- Find my resume <a href="https://dibyanshukr.vercel.app/" target="blank">here</a>   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
