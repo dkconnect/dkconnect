@@ -1,3 +1,35 @@
+# hey. It's me Lucifer 👋
+
+- Programming - Finance - Designing
+- I am currently pursuing my Bachelor's
+- I am currently learning Lua
+- I want to make a career in finance
+- Currently working on a very exciting project
+- Find my resume [here](link_to_resume)  (Replace `link_to_resume` with your actual resume link)
+
+## Connect with me
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23c62d22?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  (Replace `your_email@gmail.com` with your Gmail address)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile) (Replace `your_linkedin_profile` with your LinkedIn profile URL)
+[![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](your_website_link) (Replace `your_website_link` with your website URL, if you have one)
+
+<img src="path/to/your/gif.gif" width="300" align="right">  (Replace `path/to/your/gif.gif` with the actual path to your GIF file)
+
+## Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact)](https://github.com/anuraghazra/github-readme-stats) (Replace `your_github_username` with your actual GitHub username)
+
+## Lucifer's Github Stats
+
+[![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) (Replace `your_github_username` with your actual GitHub username)
+
+
+
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
 - I’m currently pursuing my **Bachelor's Degree**  
