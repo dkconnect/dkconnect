@@ -33,4 +33,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkconnect&" alt="dkconnect" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dkconnect&layout=compact&langs_count=12&" alt="dkconnect" /></p>
