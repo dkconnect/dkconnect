@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkconnect&show_icons=true&locale=en&layout=compact" alt="dkconnect" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&locale=en" alt="dkconnect" /></p>
-[![Wakatime Stats]()](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkconnect&" alt="dkconnect" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dkconnect&layout=compact&langs_count=12&" alt="dkconnect" /></p>
