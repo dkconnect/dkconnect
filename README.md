@@ -2,7 +2,8 @@
 
 <img src="DK.jpg?raw=true"></img><table><tr>
 
-- Programming - Finance - Designing
+<h2 align="left">Programming - Finance - Designing</h2>
+
 - I’m currently pursuing my **Bachelor's Degree**  
 - I’m learning **Lua**
 - I want to make a career in **finance**
