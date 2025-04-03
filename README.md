@@ -1,6 +1,6 @@
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
-<img src="https://github.com/LingDong-/shan-shui-inf/raw/master/screenshots/screen002.jpg?raw=true"></img><table><tr>
+<img src="Gemini_Generated_Image_wvmos5wvmos5wvmo.jpg?raw=true"></img><table><tr>
 
 - Programming - Finance - Designing
 - I’m currently pursuing my **Bachelor's Degree**  
