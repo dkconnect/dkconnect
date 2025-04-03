@@ -34,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkconnect&show_icons=true&locale=en&layout=compact" alt="dkconnect" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&locale=en" alt="dkconnect" /></p>
 
-<img src="Gemini_Generated_Image_wvmos5wvmos5wvmo.jpg?raw=true"></img><table><tr>
+<img src="Gemini_Generated_Image_webtn9webtn9webt.jpg?raw=true"></img><table><tr>
