@@ -17,9 +17,6 @@
   <a href="mailto:dkroyals1001@gmail.com" target="blank" style="display:inline-block;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="28" width="40" />
   </a>
-
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkconnect&label=Profile%20views&color=0277c0&style=flat-square" alt="dkconnect" width="130"/> </p>
-  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
