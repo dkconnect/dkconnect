@@ -9,16 +9,6 @@
 - I want to make a career in **finance**
 - Find my resume <a href="https://dibyanshukr.vercel.app/" target="blank">here</a>    
 
-<h3 align="left">Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/dibyanshu-kumar/" target="blank" style="display:inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:dkroyals1001@gmail.com" target="blank" style="display:inline-block;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="28" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
