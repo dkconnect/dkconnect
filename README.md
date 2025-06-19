@@ -1,6 +1,6 @@
 <h1 align="center">Hey, It's Me Lucifer</h1>
 
-<img src="DK.jpg?raw=true"></img><table><tr>
+<img src="?raw=true"></img><table><tr>
 
 <h2 align="center">Programming - Finance - Designing</h2>
 
@@ -34,3 +34,61 @@
 </p>
 
 <img src="Gemini_Generated_Image_webtn9webtn9webt.jpg?raw=true"></img><table><tr>
+
+
+<div align="center">
+  <h1>Hey, It's me Lucifer!</h1>
+</div>
+
+<div align="center">
+  <img src="DK.jpg" alt="Lucifer's Profile Image" width="80%">
+</div>
+
+<br>
+
+<div align="center">
+  <p>I'm a passionate coder weaving magic through lines of code.</p>
+  <p>Exploring the depths of tech with a curious mind and bold ideas.</p>
+  <p>Building projects that spark creativity and solve real-world problems.</p>
+</div>
+
+<br>
+
+## 🛠️ My Skills
+
+<div align="center">
+  <span style="background-color: #FF6B6B; color: white; padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">Python</span>
+  <span style="background-color: #4ECDC4; color: white; padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">JavaScript</span>
+  <span style="background-color: #45B7D1; color: white; padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">Excel</span>
+  <span style="background-color: #F7B731; color: white; padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">Other</span>
+</div>
+
+<br>
+
+<div align="center">
+  <em>"Code is like poetry; it’s not just what it does, but how it feels." – Lucifer</em>
+</div>
+
+<br>
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&theme=dracula" alt="GitHub Stats">
+</div>
+
+<br>
+
+## 🌐 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkconnect&layout=compact&theme=dracula" alt="Top Languages">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Gemini_Generated_Image_webtn9webtn9webt.jpg" alt="Footer Image" width="100%">
+</div>
+
+
