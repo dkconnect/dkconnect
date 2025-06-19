@@ -17,10 +17,15 @@
 ## My Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FF6B6B?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-4ECDC4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Excel-45B7D1?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Other-F7B731?style=flat-square&logo=codeigniter&logoColor=white" alt="Other">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=flat-square&logo=lock&logoColor=white" alt="Cryptography">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Quant%20Modelling-4ECDC4?style=flat-square&logo=chart-bar&logoColor=white" alt="Quant Modelling">
+  <img src="https://img.shields.io/badge/Financial%20Modelling-45B7D1?style=flat-square&logo=money-check-alt&logoColor=white" alt="Financial Modelling">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Financial%20Analysis-F7B731?style=flat-square&logo=chart-line&logoColor=white" alt="Financial Analysis">
+  <img src="https://img.shields.io/badge/MS%20Office-1B5E20?style=flat-square&logo=microsoft&logoColor=white" alt="MS Office">
+  <img src="https://img.shields.io/badge/Google%20Suite-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Suite">
 </div>
 
 <br>
