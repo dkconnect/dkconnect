@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+I'm+Lucifer!;Aspiring+Quant+%7C+Finance+Nerd;Code+is+Art+%F0%9F%92%A1" alt="Typing SVG" />
+  </br>
   <em class="subtitle">“Code | Designing | Finance | Coffee.”</em>
   
   <img src="DK.jpg" width="80%" alt="Profile Header Image">
@@ -49,7 +50,7 @@
 
 <div class="quote-section" align="center" style="margin: 30px 0; background-color: #000000; padding: 20px; border-radius: 10px; color: #ffffff; max-width: 80%;">
   <em style="margin: 0; text-align: center;">"Code is like poetry; it's not just what it does, but how it feels."</em>
-  <span class="author" style="display: block; text-align: center;">Lucifer</span>
+  <span class="author" style="display: block; text-align: center;"> - Lucifer</span>
 </div>
 
 <div align="center" class="footer-image">
