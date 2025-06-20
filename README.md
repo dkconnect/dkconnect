@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+I'm+Lucifer!;Aspiring+Quant+%7C+Finance+Nerd;Code+is+Art+%F0%9F%92%A1" alt="Typing SVG" />
   </br>
   <em class="subtitle">“Code | Designing | Finance | Coffee.”</em>
-  
+</br>
   <img src="DK.jpg" width="80%" alt="Profile Header Image">
 </div>
 
