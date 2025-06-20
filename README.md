@@ -3,7 +3,7 @@
   </br>
   <em class="subtitle">“Code | Designing | Finance | Coffee.”</em>
 </br>
-  <img src="DK.jpg" width="80%" alt="Profile Header Image">
+  <img src="DK.jpg" width="100%" alt="Profile Header Image">
 </div>
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(240, 98, 146, 0), rgba(240, 98, 146, 0.75), rgba(240, 98, 146, 0)); margin: 30px auto; width: 80%;">
