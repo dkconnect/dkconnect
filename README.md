@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, It's me Lucifer!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey+I'm+Lucifer!;Aspiring+Quant+%7C+Finance+Nerd;Code+is+Art+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,11 +8,13 @@
 
 <br>
 
-- I’m currently pursuing my **Bachelor's Degree**  
-- I’m learning **Lua**
+- I’m currently pursuing a **Bachelor’s degree**  
+- I’m learning **Lua**  
 - I want to make a career in **finance**
 
-## My Skills
+---
+
+## 🧠 My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -26,7 +28,25 @@
   <img src="https://img.shields.io/badge/Google%20Suite-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Suite">
 </div>
 
-<br>
+---
+
+## My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkconnect&layout=compact&theme=dracula" alt="Top Languages">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkconnect&theme=dracula" alt="GitHub Streak">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/dkconnect/dkconnect/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+---
 
 <div align="center">
   <em>"Code is like poetry; it’s not just what it does, but how it feels." – Lucifer</em>
@@ -34,22 +54,6 @@
 
 <br>
 
-## My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="Gemini_Generated_Image_webtn9webtn9webt.jpg" alt="Footer Image" width="100%">
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkconnect&layout=compact&theme=dracula" alt="Top Languages">
-</div>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkconnect&theme=ayu_mirage" />
-</p>
-
-<div align="center">
-  <img src="footer.jpg" alt="Footer Image" width="100%">
-</div>
-
-
