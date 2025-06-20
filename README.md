@@ -40,13 +40,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&theme=dracula" alt="GitHub Stats">
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkconnect&layout=compact&theme=dracula" alt="Top Languages">
 </div>
 
-<br>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickeldon&theme=ayu_mirage" />
+</p>
 
 <div align="center">
   <img src="Gemini_Generated_Image_webtn9webtn9webt.jpg" alt="Footer Image" width="100%">
