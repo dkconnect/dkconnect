@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickeldon&theme=ayu_mirage" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkconnect&theme=ayu_mirage" />
 </p>
 
 <div align="center">
