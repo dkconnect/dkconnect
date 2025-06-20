@@ -49,7 +49,7 @@
 </p>
 
 <div align="center">
-  <img src="Gemini_Generated_Image_webtn9webtn9webt.jpg" alt="Footer Image" width="100%">
+  <img src="footer.jpg" alt="Footer Image" width="100%">
 </div>
 
 
