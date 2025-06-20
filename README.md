@@ -12,8 +12,6 @@
 - I’m learning **Lua**
 - I want to make a career in **finance**
 
-<br>
-
 ## My Skills
 
 <div align="center">
