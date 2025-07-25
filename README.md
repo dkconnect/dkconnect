@@ -18,6 +18,7 @@
   - Currently pursuing a **Bachelor's Degree**
   - Deeply engaged in learning **Lua**, **Financial Modelling and Analysis**
   - Aspiring **Investment Banker** with a passion for designing, coding, history and global politics
+  - Currently building **South Capital** (Crypto Idea, can't reveal)
 
   <h3> Skills</h3>
   <div align="center" class="skills-badges" style="margin: 10px 0;">
