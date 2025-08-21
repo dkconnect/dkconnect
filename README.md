@@ -41,6 +41,7 @@
   <!-- Right Column: GitHub Stats & Quote -->
   <h3> GitHub Stats</h3>
   <div align="center" class="github-stats">
+    <img src="https://streak-stats.demolab.com/?user=dkconnect&theme=dracula&hide_border=true&background=000000EE"/>
     <img src="https://github-readme-stats.vercel.app/api?username=dkconnect&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkconnect&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkconnect&theme=ayu_mirage" />
