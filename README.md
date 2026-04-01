@@ -19,7 +19,7 @@ I’m a developer and data science student who loves building "stupid" projects 
 ### Beyond the Code
 When I'm not debugging a loop or analyzing market data, you'll find me:
 * Designing minimalist movie posters (Godfather, Dune, and Batman are my favorites).
-* Watching TV Series, **House of the Dragon** is my favourite.(Team Cannibal BTW).
+* Watching TV Series, **House of the Dragon** is my favourite. (Team Cannibal BTW).
 
 ---
 
@@ -28,4 +28,4 @@ When I'm not debugging a loop or analyzing market data, you'll find me:
 - [Email](mailto:dkroyals1001@gmail.com)
 - [University Email](mailto:24f1000785@ds.study.iitm.ac.in)
 
-*"I want to be the Harvey Specter of Finance who also codes and loves Coffee."*
+*"I want to be the Harvey Specter of Finance who also codes and loves Coffee"*
