@@ -1,4 +1,4 @@
-# Hi there, I'm Dibyanshu (Call me Luci) 👋
+## Hi there, I'm Dibyanshu (Call me Luci) 👋
 
 ### Undergrad @ IIT Madras | Aspiring Quant  or Core Finance | Generative Artist using Code
 
