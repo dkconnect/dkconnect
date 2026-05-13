@@ -8,7 +8,7 @@ I’m a developer and data science student who loves building "stupid" projects 
 
 ### What I'm Up To
 - **Studying:** Data Science at IIT Madras.
-- **Teaching:** Python Tutor @ **PyGirls.io** (A Boston Consulting Group initiative).
+- **Teaching:** Previosly Python TA at Stanford University CIP 2026. (CS106A)
 - **Community:** Event Head for the Synapse Society, IIT Madras.
 - **Languages:** Python, JavaScript.
 
