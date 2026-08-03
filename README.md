@@ -18,8 +18,9 @@ I’m a developer and data science student who loves building "stupid" projects 
 
 ### Beyond the Code
 When I'm not debugging a loop or analyzing market data, you'll find me:
-* Designing minimalist movie posters (Godfather, Dune, and Batman are my favorites).
-* Watching TV Series, **House of the Dragon** is my favourite. (Team Cannibal BTW).
+* Making Eroticas
+* Writing poems
+* Watching TV Series, **House of the Dragon** is my favourite. (Team Aicent only).
 
 ---
 
