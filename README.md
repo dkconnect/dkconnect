@@ -1,6 +1,6 @@
 ## Hi there, I'm Dibyanshu (Call me Luci) 👋
 
-### Undergrad @ IIT Madras | Aspiring Quant  or Core Finance | Generative Artist using Code
+### Undergrad @ IIT Madras | Aspiring Quant  or Core Finance | Artist
 
 I’m a developer and data science student who loves building "stupid" projects that somehow turn into amazing shit. 
 
@@ -12,9 +12,9 @@ I’m a developer and data science student who loves building "stupid" projects 
 - **Community:** Event Head for the Synapse Society, IIT Madras.
 - **Languages:** Python, JavaScript.
 
-### Currently Building (April 2026)
-* **[Creator Game](https://github.com/dkconnect/Creator)** - A multiplayer universe under construction.
-* **[Fifart](https://github.com/dkconnect/fifart_generation)** - Pushing the boundaries of generative art.
+### Currently Building (August 2026)
+* **[Turing](https://github.com/dkconnect/turing)**
+* **[Computepy](https://github.com/dkconnect/computepy/)** 
 
 ### Beyond the Code
 When I'm not debugging a loop or analyzing market data, you'll find me:
