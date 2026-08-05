@@ -29,6 +29,29 @@ When I'm not debugging a loop or analyzing market data, you'll find me:
 - [Email](mailto:dkroyals1001@gmail.com)
 - [University Email](mailto:24f1000785@ds.study.iitm.ac.in)
 
-*"I want to be the Harvey Specter of Finance who also codes and loves Coffee"*
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=dkconnect&theme=shadow)
-![dkconnect's GitHub Stats](https://readme-stats-github.pages.dev/api?username=dkconnect&theme=shadow)
+
+<div align="center">
+
+### *"I want to be the Harvey Specter of Quant Finance"*
+
+---
+
+### Github Stats
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-stats-github.pages.dev/api?username=dkconnect&theme=shadow" alt="Grayscale Palette" width="100%"/>
+      <br>
+      <sub><b>Statistics</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=dkconnect&theme=shadow" alt="Grayscale Palette" width="100%"/>
+      <br>
+      <sub><b>Languages</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
