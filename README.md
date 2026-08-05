@@ -62,7 +62,6 @@ When I'm not debugging a loop or analyzing market data, you'll find me:
 - [University Email](mailto:24f1000785@ds.study.iitm.ac.in)
 
 *"I want to be the Harvey Specter of Finance who also codes and loves Coffee"*
-![dkconnect's GitHub Stats](https://readme-stats-github.pages.dev/api?username=dkconnect&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=dkconnect&theme=shadow)
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=dkconnect&theme=shadow)
+![dkconnect's GitHub Stats](https://readme-stats-github.pages.dev/api?username=dkconnect&theme=shadow)
