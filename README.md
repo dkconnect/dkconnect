@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Dibyanshu (Call me Luci) 👋
 
-### Undergrad @ IIT Madras | Aspiring Quant  or Core Finance | Artist
+### Undergrad @ IIT Madras | Aspiring Quant and Core Finance | Artist
 
 I’m a developer and data science student who loves building "stupid" projects that somehow turn into amazing shit. 
 
