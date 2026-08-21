@@ -19,7 +19,7 @@ I’m a developer and data science student who loves building "stupid" projects 
 ### Currently Building (July - October 2026)
 * **[Computepy](https://github.com/dkconnect/computepy/)**
 * **[Creator](https://github.com/dkconnect/Creator/tree/main)** 
-* **[Turing](https://github.com/dkconnect/turing)**
+* **[TURING](https://github.com/dkconnect/turing)**
 
 ### Beyond the Code
 When I'm not debugging a loop or analyzing market data, you'll find me:
