@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dibyanshu (Luci)
 #### *Data Science Undergrad @ IIT Madras · Summer 2028*
-###### *Aspiring Quant · Algorithmic Artist · Writer*
+##### *Aspiring Quant & Finance Professional · Algorithmic Artist · Writer*
 
 <p align="center">
   <code>DIBYANSHU</code> • <code>Дибьяншу</code> • <code>दिव्यांशु</code> • <code>دیبیانشو</code> • <code>迪布揚舒</code> • <code>திவ்யான்ஷு</code> • <code>디비얀슈</code>
@@ -12,11 +12,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkroyals1001@gmail.com)
 [![IITM Email](https://img.shields.io/badge/IIT_Madras-002147?style=for-the-badge&logo=google-classroom&logoColor=white)](mailto:24f1000785@ds.study.iitm.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkconnect)
-
----
-</div>
-
----
 
 <div align="left">
 
