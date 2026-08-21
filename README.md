@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Dibyanshu (Luci)
+# Hi there, I'm Dibyanshu (Call me Luci)
 #### *Data Science Undergrad @ IIT Madras · Summer 2028*
 ##### *Aspiring Quant & Finance Professional · Algorithmic Artist · Writer*
 
