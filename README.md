@@ -20,17 +20,17 @@
 > *“I’m a developer and data science student who loves building quirky experiments from scratch and scaling them into rigorous, production-grade systems.”*
 
 * **Education & Fellowships:**
-  * Bachelor's Degree · <code>Indian Institute of Technology Madras</code> · Expected Summer 2028
-  * GCI Machine Learning Fellow · <code>Matsuo Iwasawa Lab, The University of Tokyo</code> · December 2026
-  * AI & ML Scholar · <code>AWS x Udacity</code> · June 2026
+  * *Bachelor's Degree* · <code>Indian Institute of Technology Madras</code> · **Expected Summer 2028**
+  * *GCI Machine Learning Fellow* · <code>Matsuo Iwasawa Lab, The University of Tokyo</code> · **December 2026**
+  * *AI & ML Scholar* · <code>AWS x Udacity</code> · **June 2026**
     
 * **Research & Experience:**
-  * Incoming Research Intern · <code>VLED Lab, IIT Ropar *(Vicharanashala)*</code> · September 2026
-  * Incoming Teaching Assistant (Python) · <code>PyGirls x Boston Consulting Group</code> · October 2026
-  * Former Teaching Assistant (Python - CS106A) · <code>Stanford University CIP</code> · Summer 2026
+  * *Incoming Research Intern* · <code>VLED Lab, IIT Ropar *(Vicharanashala)*</code> · **September 2026**
+  * *Incoming Teaching Assistant (Python)* · <code>PyGirls x Boston Consulting Group</code> · **October 2026**
+  * *Former Teaching Assistant (Python - CS106A)* · <code>Stanford University CIP</code> · **Summer 2026**
     
 * **Leadership & Community:**
-  * Department Head (History / Kalhana Chair) · <code>Synapse Society, IIT Madras</code>
+  * *Department Head (History / Kalhana Chair)* · <code>Synapse Society, IIT Madras</code>
 
 ---
 
