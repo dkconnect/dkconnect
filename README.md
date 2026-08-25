@@ -1,5 +1,11 @@
 <div align="center">
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="दिव्यांशु.png">
+  <img src="दिव्यांशु.png" width="1080" alt="Bit Dot Night Logo"/>
+</picture>
+
 # Hi there, I'm Dibyanshu (Call me Luci)
 #### *Data Science Undergrad @ IIT Madras · Summer 2028*
 ##### *Aspiring Quant & Finance Professional · Algorithmic Artist · Writer*
